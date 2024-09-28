@@ -31,7 +31,7 @@ header {
 h1 {
     margin: 60px;
     font-family: "Gothic A1";
-    font-size: 300%;
+    font-size: 400%;
     text-shadow: 6px 6px 4px #94124400;
 }
 
@@ -42,6 +42,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     padding: 0rem;
+    font-size: small;
 }
 
 .mood {
